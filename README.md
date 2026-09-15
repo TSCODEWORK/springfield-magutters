@@ -1,5 +1,6 @@
-# Springfield MA Gutters (staging)
+# springfield-magutters (archive / mirror)
 
-Lead-gen / website-landlord property for Western MA gutter services.
-Staging on GitHub Pages until custom domain + call tracking are live.
-Not a licensed contractor — inbound lead capture only.
+**Canonical live site:** https://springfieldmagutters.com  
+Also: https://springfieldmagutters.pages.dev  
+
+Owned by Website Land Lord desk. Do not enable GitHub Pages here — it competes with the Cloudflare property.
