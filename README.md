@@ -1,6 +1,5 @@
-# springfield-magutters (archive / mirror)
+# Retired mirror
 
-**Canonical live site:** https://springfieldmagutters.com  
-Also: https://springfieldmagutters.pages.dev  
+**Canonical only:** https://springfieldmagutters.com
 
-Owned by Website Land Lord desk. Do not enable GitHub Pages here — it competes with the Cloudflare property.
+This repo is a redirect stub. Do not publish a full competing site here.
